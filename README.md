@@ -1,4 +1,7 @@
-pearls-of-ruby
-==============
+repo-ejemplo
+============
 
-Yet Another Ruby primer
+Ejemplo de repositorio para trabajar en el
+[curso de `git`](http://cevug.ugr.es/git)
+
+
